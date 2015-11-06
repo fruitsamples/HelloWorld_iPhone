@@ -7,31 +7,43 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1804550411D2CAB700C48934 /* HelloWorld.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1804550011D2CAB700C48934 /* HelloWorld.xib */; };
+		1804550511D2CAB700C48934 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1804550211D2CAB700C48934 /* MainWindow.xib */; };
+		1804550911D2CABF00C48934 /* Background.png in Resources */ = {isa = PBXBuildFile; fileRef = 1804550611D2CABF00C48934 /* Background.png */; };
+		1804550A11D2CABF00C48934 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 1804550711D2CABF00C48934 /* Default.png */; };
+		1804551511D2CB3900C48934 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 1804550E11D2CB3900C48934 /* Icon-72.png */; };
+		1804551611D2CB3900C48934 /* Icon-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 1804550F11D2CB3900C48934 /* Icon-Small-50.png */; };
+		1804551711D2CB3900C48934 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = 1804551011D2CB3900C48934 /* Icon-Small.png */; };
+		1804551811D2CB3900C48934 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1804551111D2CB3900C48934 /* Icon-Small@2x.png */; };
+		1804551911D2CB3900C48934 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 1804551211D2CB3900C48934 /* Icon.png */; };
+		1804551A11D2CB3900C48934 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1804551311D2CB3900C48934 /* Icon@2x.png */; };
+		1804551B11D2CB3900C48934 /* iTunesArtwork in Resources */ = {isa = PBXBuildFile; fileRef = 1804551411D2CB3900C48934 /* iTunesArtwork */; };
 		1D3623260D0F684500981E51 /* HelloWorldAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* HelloWorldAppDelegate.m */; };
 		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
 		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
-		28255DD90DE118DC00792D1F /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 28255DD80DE118DC00792D1F /* Default.png */; };
-		287138D30DC938DC00387650 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 287138D20DC938DC00387650 /* Icon.png */; };
 		289ED5050DB92497003600B4 /* MyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 289ED5040DB92497003600B4 /* MyViewController.m */; };
-		289ED5090DB924A6003600B4 /* Background.png in Resources */ = {isa = PBXBuildFile; fileRef = 289ED5060DB924A6003600B4 /* Background.png */; };
-		289ED50D0DB924CE003600B4 /* HelloWorld.xib in Resources */ = {isa = PBXBuildFile; fileRef = 289ED50C0DB924CE003600B4 /* HelloWorld.xib */; };
-		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1804550111D2CAB700C48934 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/HelloWorld.xib; sourceTree = "<group>"; };
+		1804550311D2CAB700C48934 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		1804550611D2CABF00C48934 /* Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Background.png; path = images/Background.png; sourceTree = "<group>"; };
+		1804550711D2CABF00C48934 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = images/Default.png; sourceTree = "<group>"; };
+		1804550E11D2CB3900C48934 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72.png"; path = "images/Icon-72.png"; sourceTree = "<group>"; };
+		1804550F11D2CB3900C48934 /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small-50.png"; path = "images/Icon-Small-50.png"; sourceTree = "<group>"; };
+		1804551011D2CB3900C48934 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small.png"; path = "images/Icon-Small.png"; sourceTree = "<group>"; };
+		1804551111D2CB3900C48934 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small@2x.png"; path = "images/Icon-Small@2x.png"; sourceTree = "<group>"; };
+		1804551211D2CB3900C48934 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = images/Icon.png; sourceTree = "<group>"; };
+		1804551311D2CB3900C48934 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon@2x.png"; path = "images/Icon@2x.png"; sourceTree = "<group>"; };
+		1804551411D2CB3900C48934 /* iTunesArtwork */ = {isa = PBXFileReference; lastKnownFileType = file; name = iTunesArtwork; path = images/iTunesArtwork; sourceTree = "<group>"; };
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1D3623240D0F684500981E51 /* HelloWorldAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HelloWorldAppDelegate.h; sourceTree = "<group>"; };
 		1D3623250D0F684500981E51 /* HelloWorldAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HelloWorldAppDelegate.m; sourceTree = "<group>"; };
 		1D6058910D05DD3D006BFB54 /* HelloWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		28255DD80DE118DC00792D1F /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
-		287138D20DC938DC00387650 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 		289ED5030DB92497003600B4 /* MyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyViewController.h; sourceTree = "<group>"; };
 		289ED5040DB92497003600B4 /* MyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyViewController.m; sourceTree = "<group>"; };
-		289ED5060DB924A6003600B4 /* Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Background.png; sourceTree = "<group>"; };
-		289ED50C0DB924CE003600B4 /* HelloWorld.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HelloWorld.xib; sourceTree = "<group>"; };
-		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
 		28D916E10DCB86C500DA1262 /* ReadMe.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReadMe.txt; sourceTree = "<group>"; wrapsLines = 1; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* HelloWorld_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HelloWorld_Prefix.pch; sourceTree = "<group>"; };
@@ -95,11 +107,17 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				289ED50C0DB924CE003600B4 /* HelloWorld.xib */,
-				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
-				287138D20DC938DC00387650 /* Icon.png */,
-				289ED5060DB924A6003600B4 /* Background.png */,
-				28255DD80DE118DC00792D1F /* Default.png */,
+				1804550E11D2CB3900C48934 /* Icon-72.png */,
+				1804550F11D2CB3900C48934 /* Icon-Small-50.png */,
+				1804551011D2CB3900C48934 /* Icon-Small.png */,
+				1804551111D2CB3900C48934 /* Icon-Small@2x.png */,
+				1804551211D2CB3900C48934 /* Icon.png */,
+				1804551311D2CB3900C48934 /* Icon@2x.png */,
+				1804551411D2CB3900C48934 /* iTunesArtwork */,
+				1804550611D2CABF00C48934 /* Background.png */,
+				1804550711D2CABF00C48934 /* Default.png */,
+				1804550011D2CAB700C48934 /* HelloWorld.xib */,
+				1804550211D2CAB700C48934 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* Info.plist */,
 			);
 			name = Resources;
@@ -142,6 +160,13 @@
 			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "HelloWorld" */;
 			compatibilityVersion = "Xcode 3.1";
 			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				en,
+			);
 			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -156,11 +181,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
-				289ED5090DB924A6003600B4 /* Background.png in Resources */,
-				289ED50D0DB924CE003600B4 /* HelloWorld.xib in Resources */,
-				287138D30DC938DC00387650 /* Icon.png in Resources */,
-				28255DD90DE118DC00792D1F /* Default.png in Resources */,
+				1804550411D2CAB700C48934 /* HelloWorld.xib in Resources */,
+				1804550511D2CAB700C48934 /* MainWindow.xib in Resources */,
+				1804550911D2CABF00C48934 /* Background.png in Resources */,
+				1804550A11D2CABF00C48934 /* Default.png in Resources */,
+				1804551511D2CB3900C48934 /* Icon-72.png in Resources */,
+				1804551611D2CB3900C48934 /* Icon-Small-50.png in Resources */,
+				1804551711D2CB3900C48934 /* Icon-Small.png in Resources */,
+				1804551811D2CB3900C48934 /* Icon-Small@2x.png in Resources */,
+				1804551911D2CB3900C48934 /* Icon.png in Resources */,
+				1804551A11D2CB3900C48934 /* Icon@2x.png in Resources */,
+				1804551B11D2CB3900C48934 /* iTunesArtwork in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -178,6 +209,25 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		1804550011D2CAB700C48934 /* HelloWorld.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1804550111D2CAB700C48934 /* en */,
+			);
+			name = HelloWorld.xib;
+			sourceTree = "<group>";
+		};
+		1804550211D2CAB700C48934 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1804550311D2CAB700C48934 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		1D6058940D05DD3E006BFB54 /* Debug */ = {
@@ -213,9 +263,10 @@
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 3.2;
 				ONLY_ACTIVE_ARCH = YES;
 				PREBINDING = NO;
-				SDKROOT = iphoneos2.0;
+				SDKROOT = iphoneos4.0;
 			};
 			name = Debug;
 		};
@@ -228,8 +279,9 @@
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 3.2;
 				PREBINDING = NO;
-				SDKROOT = iphoneos2.0;
+				SDKROOT = iphoneos4.0;
 			};
 			name = Release;
 		};

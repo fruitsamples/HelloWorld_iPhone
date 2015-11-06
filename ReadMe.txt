@@ -12,12 +12,12 @@ The basic features of the application are discussed in more detail in "Your Firs
 ================================================================================
 BUILD REQUIREMENTS:
 
-Mac OS X 10.5.3, Xcode 3.1, iPhone OS 2.0
+iOS 4.0 SDK
 
 ================================================================================
 RUNTIME REQUIREMENTS:
 
-Mac OS X 10.5.3, iPhone OS 2.0
+iPhone OS 3.2 or later
 
 ================================================================================
 
@@ -39,6 +39,9 @@ The view controller's nib file.
 
 ================================================================================
 CHANGES FROM PREVIOUS VERSIONS:
+
+Version 1.8
+- Upgraded project to build with the iOS 4.0 SDK.
 
 Version 1.7
 - Updated for and tested with iPhone OS 2.0. First public release.
@@ -68,4 +71,4 @@ Version 1.1
 	Added pointer to the iPhone Reference Library.
 	Return key on keyboard now functions.
 
-Copyright (c) 2008 Apple Inc. All rights reserved.
+Copyright (c) 2008-2010 Apple Inc. All rights reserved.
